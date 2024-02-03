@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="twitter-client-producer-kafka" />
+        <module name="conf-cloud" />
+        <module name="elastic-search-consumer-kafka" />
+        <module name="kafka-producer-twitter-client" />
+        <module name="kafka-consumer-elastic-search" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
